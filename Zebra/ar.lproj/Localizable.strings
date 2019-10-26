@@ -21,7 +21,7 @@
 "Home" = "الرئيسية";
 "Info" = "معلومات";
 "Welcome to the Zebra Beta!" = "مرحباً بك في Zebra التجريبي!";
-"Changelog" = "التغييرات";
+"Changelog" = "التغيرات";
 "Community Repos" = "مجتمع المستودعات";
 "Transfer Sources from %@" = "تحويل المصادر من %@";
 "Move all sources from %@ to Zebra" = "نقل كل المصادر من  %@ إلى Zebra";
